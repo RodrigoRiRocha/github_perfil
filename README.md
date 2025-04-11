@@ -1,12 +1,38 @@
-# React + Vite
+# 🚀 Projeto React com Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Bem-vindo ao **Projeto React com Vite**! Este projeto foi desenvolvido como parte do curso da **EBAC** e tem como objetivo demonstrar habilidades em **React**, **CSS Modules** e consumo de APIs. 🎯
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tecnologias Utilizadas
 
-## Expanding the ESLint configuration
+- ⚛️ **React**: Biblioteca para construção de interfaces modernas e dinâmicas.
+- ⚡ **Vite**: Ferramenta de build rápida e eficiente.
+- 🎨 **CSS Modules**: Estilização modular para evitar conflitos de classes.
+- 🌐 **GitHub API**: Integração para exibir repositórios de usuários.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📚 O que foi feito?
+
+- **Componente de Perfil**: Mostra o avatar e o nome do usuário do GitHub.
+- **Lista de Repositórios**: Exibe os repositórios públicos do usuário com informações como nome, linguagem e link para o GitHub.
+- **Formulário Interativo**: Permite entrada de dados e exibe mensagens dinâmicas baseadas na média de notas.
+- **Estilização Responsiva**: Layout adaptado para diferentes tamanhos de tela.
+
+---
+
+## 🚀 Funcionalidades
+
+1. **Busca de Usuário no GitHub**: Digite o nome de um usuário e veja seu perfil e repositórios.
+2. **Feedback Dinâmico**: Mensagens interativas baseadas em condições (ex.: aprovação ou reprovação).
+3. **Estilização Modular**: Uso de CSS Modules para componentes isolados e organizados.
+
+---
+
+
+
+💡 Aprendizados
+Manipulação de estado com useState e efeitos colaterais com useEffect.
+Consumo de APIs REST com fetch.
+Organização de componentes reutilizáveis e estilização modular.
