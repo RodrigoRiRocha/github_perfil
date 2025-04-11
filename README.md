@@ -13,6 +13,9 @@ Bem-vindo ao **Projeto React com Vite**! Este projeto foi desenvolvido como part
 
 ---
 
+![image](https://github.com/user-attachments/assets/0c5d03b4-d83b-4c64-911f-501e4f7043ae)
+
+
 ## 📚 O que foi feito?
 
 - **Componente de Perfil**: Mostra o avatar e o nome do usuário do GitHub.
