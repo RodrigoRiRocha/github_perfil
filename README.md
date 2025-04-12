@@ -2,6 +2,8 @@
 
 Bem-vindo ao **Projeto React com Vite**! Este projeto foi desenvolvido como parte do curso da **EBAC** e tem como objetivo demonstrar habilidades em **React**, **CSS Modules** e consumo de APIs. 🎯
 
+https://github-perfil-rrr.vercel.app/
+
 ---
 
 ## 🛠️ Tecnologias Utilizadas
